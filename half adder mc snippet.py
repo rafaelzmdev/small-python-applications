@@ -6,4 +6,3 @@ while True:
         print("Please insert a valid character. No decimals."); continue
     if n1 & n2 < 10: break
     else: print("The numbers have to be single-digit.")
-
